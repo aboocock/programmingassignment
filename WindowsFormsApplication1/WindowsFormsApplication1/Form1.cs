@@ -21,5 +21,20 @@ namespace WindowsFormsApplication1
         {
             //veveveve
         }
+
+        private void bebeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
